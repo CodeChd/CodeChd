@@ -5,7 +5,6 @@
 * 🔭 Looking forward to Contribute to Open Source projects.
 * 🥅 2022 Goals: To be confident in Frontend development </&> Backend development.
 * 😻 Building things on the Web and Reading 📚 is my hobby.
----
 <br />
 
 
@@ -19,8 +18,6 @@
 
 <br />
 
----
-<br/>
 
 ### 🛠️Language and Tools:
 
