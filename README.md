@@ -1,12 +1,13 @@
 
-><h1>Hi there, I'm Carl Francicso an Aspiring Developer</h1> 👋 
+><h1>Hi there, I'm Carl Francicso👋 </h1> 
 
 * 🏫 Currently in _4th year A.Y. 2022-2023_.
 * 🔭 Looking forward to Contribute to Open Source projects.
-* 🥅 2022 Goals: To be confident in Frontend development && Backend development.
+* 🥅 2022 Goals: To be confident in Frontend development </&> Backend development.
 * 😻 Building things on the Web and Reading 📚 is my hobby.
 
 <br />
+---
 
 ### Connect with me:
 
@@ -17,8 +18,7 @@
 </p>
 
 <br />
-<br />
-
+---
 
 ### 🛠️Language and Tools:
 
