@@ -44,7 +44,7 @@
 
 <div style="display: flex">
 <a href="https://github.com/CodeChd">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeChd&show_icons=true&theme=tokyonight" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=CodeChd&show_icons=true&theme=tokyonight" />
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeChd&theme=tokyonight&layout=compact" />
   </a>
