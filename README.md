@@ -7,7 +7,7 @@
 * 🥅 2022 Goals: To be confident in Frontend development </&> Backend development.
 * 😻 Building things on the Web and Reading 📚 is my hobby.
 <br />
-
+https://www.svgrepo.com/show/354113/nextjs-icon.svg
 
 ### Connect with me:
 
