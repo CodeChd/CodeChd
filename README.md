@@ -41,10 +41,11 @@
 
 ---
 <br />
-
+<p>
 [![Carls's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeChd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeChd&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://javascript.info/
