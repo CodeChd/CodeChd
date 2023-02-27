@@ -45,6 +45,7 @@
 
 ### Database 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,6 +63,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
 ### Other Tools
@@ -88,13 +90,6 @@
   </a>
   </div>
 
-[vscode]: https://code.visualstudio.com/
-[javascript]: https://javascript.info/
-[react]: https://reactjs.org/
-[next]: https://nextjs.org/
-[html]: https://www.w3schools.com/html/
-[css]: https://css-tricks.com/
-[webdev]: https://www.google.com/
 [linkedin]: https://www.linkedin.com/in/francisco-carl/
 [Facebook]: https://www.facebook.com/cj.francisco.3152/
 [Email]: mailto:franciscocarl122@gmail.com
