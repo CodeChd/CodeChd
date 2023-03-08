@@ -1,5 +1,5 @@
 
-<h1>Hello there, I'm Carl Francicso👋 </h1> 
+<h1>Hi, I'm Carl Francicso👋 </h1> 
 
 * 🏫 Currently in _4th year A.Y. 2022-2023_.
 * 🔭 Looking forward to Contribute to Open Source projects.
