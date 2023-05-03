@@ -1,11 +1,10 @@
 
-<h1>Hello there, I'm Carl Francicso👋 </h1> 
+<h1>Hello there, I'm CJ Francicso👋 </h1> 
 
 * 🏫 Currently in _4th year A.Y. 2022-2023_.
 * 🔭 Looking forward to Contribute to Open Source projects.
-* 🥅 2023 Goals: To acquire a proficient level of expertise in Full Stack Development
-* 😻 Building things on the Web and Reading 📚 is my hobby.
-<br />
+* 🥅 2023 Goals: To solidy my skills in Full Stack Development
+* 😻 I love building things on the web while Drinking coffee
 
 
 ### Connect with me:
