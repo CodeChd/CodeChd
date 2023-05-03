@@ -4,7 +4,7 @@
 * 🏫 Currently in _4th year A.Y. 2022-2023_.
 * 🔭 Looking forward to Contribute to Open Source projects.
 * 🥅 2023 Goals: To solidy my skills in Full Stack Development
-* 😻 I love building things on the web while Drinking coffee
+* 😻 I love building things on the web while drinking coffee
 
 
 ### Connect with me:
@@ -66,7 +66,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-### Other Tools
+### Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
