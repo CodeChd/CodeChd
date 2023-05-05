@@ -3,7 +3,7 @@
 
 * 🏫 Currently in _4th year A.Y. 2022-2023_.
 * 🔭 Looking forward to Contribute to Open Source projects.
-* 🥅 2023 Goals: To solidy my skills in Full Stack Development
+* 🥅 2023 Goals: To solidify my skills in Full Stack Development
 * 😻 I love building things on the web while drinking coffee
 
 
