@@ -1,5 +1,9 @@
 
 <h1>Hello there, I'm CJ Francicso👋 </h1> 
+<br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+.<br/>
+
 
 * 🏫 Currently in _4th year A.Y. 2022-2023_.
 * 🔭 Looking forward to Contribute to Open Source projects.
@@ -18,12 +22,6 @@
 <br />
 
 
-### 🛠️ Tech Stack
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-
-<br>
-<br>
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
