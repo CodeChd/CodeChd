@@ -2,7 +2,7 @@
 <h1>Hello there, I'm CJ Francicso👋 </h1> 
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-  </div>
+  
 <br>
 <br>
 <br>
@@ -13,7 +13,7 @@
 * 🔭 Looking forward to Contribute to Open Source projects.
 * 🥅 2023 Goals: To solidify my skills in Full Stack Development
 * 😻 I love building things on the web while drinking coffee
-
+</div>
 
 ### Connect with me:
 
