@@ -102,7 +102,7 @@
 [Facebook]: https://www.facebook.com/cj.francisco.3152/
 [Email]: mailto:franciscocarl122@gmail.com
 
-<p style="text-align: center">[![](https://visitcount.itsvg.in/api?id=codechd&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+[![](https://visitcount.itsvg.in/api?id=codechd&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
