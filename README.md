@@ -1,7 +1,7 @@
 
 <h1>Hello there, I'm CJ Francicso👋 </h1> 
 <div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
   
 <br>
 </br>
