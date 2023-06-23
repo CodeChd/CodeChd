@@ -94,13 +94,16 @@
 ---
 <br />
 
-<div style="display: flex">
+<div style="display: flex" align=center>
 <a href="https://github.com/CodeChd">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeChd&show_icons=true&theme=tokyonight" />
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeChd&theme=tokyonight&layout=compact" />
   </a>
   </div>
+  </div>
+
+  </br>
 
 [linkedin]: https://www.linkedin.com/in/francisco-carl/
 [Facebook]: https://www.facebook.com/cj.francisco.3152/
