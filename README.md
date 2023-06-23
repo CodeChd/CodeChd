@@ -106,7 +106,11 @@
 [Facebook]: https://www.facebook.com/cj.francisco.3152/
 [Email]: mailto:franciscocarl122@gmail.com
 
-[![](https://visitcount.itsvg.in/api?id=codechd&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align=center>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
 
 
 
