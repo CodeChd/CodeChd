@@ -13,10 +13,11 @@
 
 
 
-* 🏫 Currently in _4th year A.Y. 2022-2023_.
-* 🔭 Looking forward to Contribute to Open Source projects.
-* 🥅 2023 Goals: To solidify my skills in Full Stack Development
-* 😻 I love building things on the web while drinking coffee
+🏫 I'm currently in my 4th year of studies for the academic year 2022-2023.
+🌐 I'm excited to contribute to open-source projects and gain valuable experience.
+🥅 My goal for 2023 is to solidify my skills in full-stack development.
+😻 I love building things on the web while enjoying a cup of coffee.
+
 </div>
 
 ### Connect with me:
