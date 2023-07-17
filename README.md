@@ -15,7 +15,7 @@
 
 
 
-* 🏫 BSIT graduate for the academic year 2022-2023.
+* 🏫 BSIT SY 2022-2023.
 * 🌐 I'm excited to contribute to open-source projects and gain valuable experience.
 * 🥅 My goal for 2023 is to solidify my skills in full-stack development.
 * 😻 I love building things on the web while enjoying a cup of coffee.
