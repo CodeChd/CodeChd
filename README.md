@@ -22,13 +22,6 @@
 
 </div>
 
-### Connect with me:
-
-<p align="flex-start">
-<a href="https://facebook.com/cj.francisco.3152"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/cj-francisco-918509275/"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:franciscocarl1122@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
 
 <br />
 
