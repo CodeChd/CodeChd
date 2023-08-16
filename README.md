@@ -17,7 +17,7 @@
 
 * 🏫 BSIT GRADUATE OF SY 2022-2023.
 * 🌐 I'm excited to contribute to open-source projects and gain valuable experience.
-* 🥅 My goal for 2023 is to solidify my skills in full-stack development.
+* 🥅 2023 Pursuit: Embracing Challenges, Cultivating Growth, and Mastering My Craft.
 
 
 </div>
