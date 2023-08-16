@@ -22,16 +22,6 @@
 
 </div>
 
-</br>
-
-![Codewars](https://github.r2v.ch/codewars?user=CodeChd)
-
-
-
-
-
-
-
 ---
 <br />
 
@@ -53,6 +43,10 @@
 <div align=center>
 
   ![Snake animation](https://github.com/zzhutianyu/zzhutianyu/blob/output/github-contribution-grid-snake.svg)
+
+  </br>
+  
+![Codewars](https://github.r2v.ch/codewars?user=CodeChd)
   
 </div>
 
