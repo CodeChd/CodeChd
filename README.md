@@ -17,7 +17,7 @@
 
 * 🏫 BSIT GRADUATE OF SY 2022-2023.
 * 🌐 I'm excited to contribute to open-source projects and gain valuable experience.
-* 🥅 2023 Pursuit: Embracing Challenges, Cultivating Growth, and Mastering My Craft.
+
 
 
 </div>
