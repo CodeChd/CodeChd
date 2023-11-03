@@ -15,8 +15,11 @@
 
 
 
-* 🏫 BSIT GRADUATE OF SY 2022-2023.
-* 🌐 I'm excited to contribute to open-source projects and gain valuable experience.
+
+  <div align=center>
+<h2>* 🏫 BSIT GRADUATE OF SY 2022-2023.</h2>
+</div>
+
 
 
 
