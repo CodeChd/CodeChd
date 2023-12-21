@@ -51,7 +51,7 @@
 
   </br>
   
-![Codewars](https://github.r2v.ch/codewars?user=CodeChd)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeChd&theme=gruvbox&border_radius=30.0" alt="CodeChd" /></p>
   
 </div>
 
