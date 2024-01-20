@@ -13,9 +13,7 @@
 </div>
 
 
-<p align="center">
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,next,tailwind,expressjs,nodejs,mongodb,git,vscode,postman,stackoverflow&perline=13)](#)
-</p>
 
 </br>
 
