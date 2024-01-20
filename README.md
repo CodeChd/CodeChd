@@ -14,6 +14,7 @@
 
 <table align="center">
   <tr>
+     <td>
       [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,expressjs,nodejs,mongodb,git,vscode,postman,stackoverflow&perline=13)](#)
     </td>
   </tr>
