@@ -12,10 +12,8 @@
 </p>
 </div>
 
-<div style="text-align: center;">
-  <p style="display: inline-block;">
+<div align="center"">
    [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,expressjs,nodejs,mongodb,git,vscode,postman,stackoverflow&perline=13)](#)
-  </p>
 </div>
 
 </br>
