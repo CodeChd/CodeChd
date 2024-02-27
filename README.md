@@ -12,7 +12,12 @@
 </p>
 </div>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,next,remix,redux,tailwind,bootstrap,materialui,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb,postgresql,docker,aws,postman&perline=11)](#)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skills.thijs.gg/icons?i=html,css,js,ts,react,next,remix,redux,tailwind,bootstrap,materialui,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb,postgresql,docker,aws,postman" />
+  </a>
+</p>
 
 </br>
 
