@@ -12,7 +12,7 @@
 </p>
 </div>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,next,remix,redux,tailwind,bootstrap,materialui,expressjs,nodejs,mongodb,docker,aws,git,postman&perline=18)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,next,remix,redux,tailwind,bootstrap,materialui,expressjs,nodejs,prisma,mongodb,postgresql,docker,aws,git,postman&perline=20)](#)
 
 </br>
 
