@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,python,django,react,next,remix,redux,tailwind,bootstrap,materialui,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb,postgresql,docker,aws,postman" />
+    <img src="https://skills.thijs.gg/icons?i=html,css,js,ts,python,django,react,next,remix,redux,tailwind,bootstrap,materialui,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb,mysql,postgresql,docker,aws,postman" />
   </a>
 </p>
 
