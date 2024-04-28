@@ -15,10 +15,10 @@
 
 <p align="center">
    
-   [![My Skills](https://skillicons.dev/icons?i=ts,python,django,react,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb&perline=3)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=ts,python,django,react,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb&perline=16)](https://skillicons.dev)
 <p align="center">
    
-   [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,docker,linux,aws,postman,wordpress&perline=3)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,docker,linux,aws,postman,wordpress&perline=7)](https://skillicons.dev)
    
 </p>
 </p>
