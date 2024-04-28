@@ -14,9 +14,13 @@
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,django,react,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb,mysql,postgresql,docker,aws,postman,wordpress" />
-  </a>
+   
+   [![My Skills](https://skillicons.dev/icons?i=ts,python,django,react,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb&perline=3)](https://skillicons.dev)
+<p align="center">
+   
+   [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,docker,linux,aws,postman,wordpress&perline=3)](https://skillicons.dev)
+   
+</p>
 </p>
 
 </br>
