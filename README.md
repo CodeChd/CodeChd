@@ -1,6 +1,4 @@
-<h1 align="center">
-   ✨ CJ FRANCISCO 💻
-</h1>
+
 
 
   <div align=center>
