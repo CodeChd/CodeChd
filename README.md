@@ -16,10 +16,11 @@
 <p align="center">
    
    [![My Skills](https://skillicons.dev/icons?i=ts,python,django,react,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,redis,mongodb&perline=16)](https://skillicons.dev)
+   
 <p align="center">
-   
-   [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,docker,linux,aws,postman,wordpress&perline=7)](https://skillicons.dev)
-   
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,linux,aws,postman,wordpress" />
+  </a>
 </p>
 </p>
 
