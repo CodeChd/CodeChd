@@ -13,7 +13,7 @@
 
 <p align="center">
    
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,python,django,react,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,mongodb&perline=16)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,python,django,react,vue,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,mongodb&perline=16)](https://skillicons.dev)
    
 <p align="center">
   <a href="https://skillicons.dev">
