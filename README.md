@@ -17,7 +17,7 @@
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,mysql,postgresql,dynamodb,docker,bash,linux,aws,postman,wordpress" />
+    <img src="https://skillicons.dev/icons?i=redis,supabase,mysql,postgresql,dynamodb,docker,bash,linux,aws,postman,wordpress" />
   </a>
 </p>
 </p>
