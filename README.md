@@ -13,11 +13,11 @@
 
 <p align="center">
    
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,python,django,react,vue,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,mongodb&perline=17)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,python,django,flask,react,vue,next,remix,svelte,redux,tailwind,expressjs,nestjs,nodejs,graphql,prisma,mongodb&perline=17)](https://skillicons.dev)
    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,supabase,mysql,postgresql,dynamodb,docker,kubernetes,bash,linux,aws,digitalocean,postman,wordpress" />
+    <img src="https://skillicons.dev/icons?i=redis,supabase,mysql,postgresql,dynamodb,docker,kubernetes,bash,linux,aws,cloudflare,postman,wordpress" />
   </a>
 </p>
 </p>
