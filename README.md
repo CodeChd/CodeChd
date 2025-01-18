@@ -36,21 +36,16 @@
 
 ---
 <br />
-
-  </div>
-
+  
+</div>
   </br>
 
 [linkedin]: https://www.linkedin.com/in/francisco-carl/
 [Facebook]: https://www.facebook.com/cj.francisco.3152/
 [Email]: mailto:franciscocarl122@gmail.com
 
-<div align=center>
 
-
-  </br>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeChd&theme=gruvbox&border_radius=30.0" alt="CodeChd" /></p>
   
 </div>
 
