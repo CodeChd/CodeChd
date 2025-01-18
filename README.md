@@ -34,11 +34,7 @@
 
 </div>
 
----
-<br />
-  
 </div>
-  </br>
 
 [linkedin]: https://www.linkedin.com/in/francisco-carl/
 [Facebook]: https://www.facebook.com/cj.francisco.3152/
