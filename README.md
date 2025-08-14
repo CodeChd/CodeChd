@@ -11,15 +11,20 @@
 </div>
 
 
-<p align="center">
-   
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,python,django,flask,fastapi,react,vue,next,nodejs,prisma,mongodb&perline=12)](https://skillicons.dev)
-   </p>
+<!-- First row of skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,supabase,mysql,postgresql,dynamodb,docker,bash,linux,aws,cloudflare,postman,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,django,flask,fastapi,react,vue,next,nodejs,prisma,mongodb&perline=12" />
   </a>
 </p>
+
+<!-- Second row of skills -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,supabase,mysql,postgresql,dynamodb,docker,bash,linux,aws,cloudflare,postman,wordpress&perline=12" />
+  </a>
+</p>
+
 
 
 </br>
