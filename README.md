@@ -21,7 +21,7 @@
 <!-- Second row of skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,supabase,mysql,postgresql,dynamodb,docker,bash,linux,aws,azure,cloudflare,nginx,postman,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=rcypress,redis,mysql,postgresql,dynamodb,docker,bash,linux,aws,azure,cloudflare,nginx,postman,wordpress&perline=14" />
   </a>
 </p>
 
