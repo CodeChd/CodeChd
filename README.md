@@ -14,14 +14,14 @@
 <!-- First row of skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,django,flask,fastapi,react,vue,next,nodejs,prisma,mongodb&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,django,flask,fastapi,kafka,terraform,react,vue,next,nodejs,prisma,mongodb&perline=14" />
   </a>
 </p>
 
 <!-- Second row of skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,supabase,mysql,postgresql,dynamodb,docker,bash,linux,aws,cloudflare,postman,wordpress&perline=12" />
+    <img src="https://skillicons.dev/icons?i=redis,supabase,mysql,postgresql,dynamodb,docker,bash,linux,aws,azure,cloudlare,cloudflare,postman,wordpress&perline=14" />
   </a>
 </p>
 
