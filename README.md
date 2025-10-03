@@ -31,7 +31,7 @@
 
 
   <div align=center>
-<p>🏫 IT GRADUATE OF SY 2022-2023.</h2>
+<p>🏫 IT GRADUATE SY 2019-2023.</h2>
 </div>
 
 
