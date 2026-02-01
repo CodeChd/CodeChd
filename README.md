@@ -14,12 +14,6 @@
 </br>
 
 
-  <div align=center>
-<p>🏫 IT GRADUATE SY 2019-2023.</h2>
-</div>
-
-
-
 
 </div>
 
