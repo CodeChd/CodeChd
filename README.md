@@ -17,4 +17,4 @@ I'm a software engineer with a couple of years of experience, primarily focused 
 
 <br/>
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/francisco-carl/) &nbsp;&bull;&nbsp; [Email](mailto:franciscocarl122@gmail.com) &nbsp;&bull;&nbsp; [Facebook](https://www.facebook.com/cj.francisco.3152/)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/francisco-carl/) &nbsp;&bull;&nbsp; [Email](mailto:franciscocarl122@gmail.com) &nbsp;&bull;&nbsp;
